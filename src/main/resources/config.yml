@@ -1,0 +1,6 @@
+cooldowns:
+  speedfood:
+    time: 60
+    effect: ""
+    lore: ""
+    items: ""
